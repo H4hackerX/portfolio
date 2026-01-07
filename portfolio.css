@@ -195,6 +195,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+     background-color: red;
 }
 
 .hero-image img {
@@ -683,6 +684,7 @@ section {
     }
 
 }
+
 
 
 
