@@ -194,6 +194,7 @@ section {
     flex: 1;
     display: flex;
     justify-content: center;
+    background: transparent;
 }
 
 .hero-image img {
@@ -682,3 +683,4 @@ section {
     }
 
 }
+
