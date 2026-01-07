@@ -151,7 +151,7 @@ section {
 /* Hero Section */
 .hero {
     padding: 150px 0 80px;
-    background-color: var(--bg-light);
+    background-color: red;
     height: 95vh;
 }
 
@@ -201,7 +201,7 @@ section {
     width: 100%;
     height: auto;
     object-fit: contain;
-    background-color: var(--bg-light);
+    background-color: red;
 }
 /* About Section */
 .about-content {
@@ -683,6 +683,7 @@ section {
     }
 
 }
+
 
 
 
