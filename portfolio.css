@@ -151,7 +151,6 @@ section {
 /* Hero Section */
 .hero {
     padding: 150px 0 80px;
-    background-color: red;
     height: 95vh;
 }
 
@@ -195,14 +194,12 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-     background-color: red;
 }
 
 .hero-image img {
     width: 100%;
     height: auto;
     object-fit: contain;
-    background-color: red;
 }
 /* About Section */
 .about-content {
@@ -684,6 +681,7 @@ section {
     }
 
 }
+
 
 
 
