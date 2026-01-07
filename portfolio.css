@@ -201,7 +201,7 @@ section {
     width: 100%;
     height: auto;
     object-fit: contain;
-    background-color: transparent;
+    background-color: #fff;
 }
 /* About Section */
 .about-content {
@@ -683,6 +683,7 @@ section {
     }
 
 }
+
 
 
 
